@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marta Beltrán / URJC"
+title                    : "Marta Beltrán"
 title_separator          : "-"
 name                     : &name "Marta Beltrán"
 description              : &description "Associate Professor"
