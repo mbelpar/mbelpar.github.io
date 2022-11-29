@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Research and Innovation Contracts
+Research Projects
 ======
+- (PI) DICYME: Dynamic Industrial CYberrisk Modelling based on Evidence (CPP2021-009025), Ministerio de Ciencia e Innovación (Spanish Government), 01/09/2022-31/08/2025.
 - (Researcher) Edge Data: Una infraestructura para sistemas híbridos altamente descentralizados (P2018/TCS-4499), Comunidad de Madrid (Regional Government), 1/1/2019-31/04/2023.
-- (PI) Impacto de las técnicas de reconocimiento facial en la privacidad de las personas, Agencia Española de Protección de Datos (Spanish Government), 21/01/22-20/07/2022.
+- (PI) Impacto de las técnicas de reconocimiento facial en la privacidad de las personas, Agencia Española de Protección de Datos (Spanish Government), 21/01/2022-20/07/2022.
 - (Researcher) SaberMED: Swarm Agent-Based Environment For Reputation in MEDicine (RTC-2017-6253-1), MCIU (Spanish Government), 1/1/2019- 31/12/2021.
 - (PI) Ayudas para la contratación de Ayudantes de Investigación de la Comunidad de Madrid (PEJ-2017-AI/TIC-6403), Comunidad de Madrid (Regional Government), 20/02/2018 - 19/02/2020.
 - (Researcher) Inteligencia artificial y métodos matemáticos avanzados para el reconocimiento automático de actividades humanas en sistemas de inteligencia ambiental (TIN2015-69542-C2-1-R), MINECO (Spanish Government), 1/1/2016- 31/12/2018.
@@ -23,7 +24,7 @@ Research and Innovation Contracts
 - (Researcher) GATAVIRSA: Algoritmos, Técnicas y Aplicaciones de Realidad Virtual y Simulación Avanzada (S-0505/DPI/0235), 01/01/2006 - 31/12/2009.
 - (Researcher) Entrenadores virtuales mediante plataformas de bajo coste (TIC-2003-08933-C02), CICYT (Spanish Governemnt), 01/11/2003 - 01/11/2006.
 
-Research Projects
+Research and Innovation Contracts
 ======
 - (PI) For RatedPower "Research on DevSecOps and dynamic security" (2022-2023)
 - (PI) For DeNexus "Research on quantitative OT cyber risk analysis"(2021-2022)
