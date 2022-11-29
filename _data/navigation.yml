@@ -6,7 +6,10 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Teaching"
+  - title: "Courses and supervising"
+    url: /courses/
+    
+  - title: "Teaching materials"
     url: /teaching/     
     
   - title: "Talks and Press"
