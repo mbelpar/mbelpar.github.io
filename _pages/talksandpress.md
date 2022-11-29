@@ -11,18 +11,21 @@ redirect_from:
 
 Talks and Podacasts (Spanish)
 ======
-- (PI) DICYME: Dynamic Industrial CYberrisk Modelling based on Evidence (CPP2021-009025), Ministerio de Ciencia e Innovación (Spanish Government), 01/09/2022-31/08/2025.
-- (Researcher) Edge Data: Una infraestructura para sistemas híbridos altamente descentralizados (P2018/TCS-4499), Comunidad de Madrid (Regional Government), 1/1/2019-31/04/2023.
-- (PI) Impacto de las técnicas de reconocimiento facial en la privacidad de las personas, Agencia Española de Protección de Datos (Spanish Government), 21/01/2022-20/07/2022.
-- (Researcher) SaberMED: Swarm Agent-Based Environment For Reputation in MEDicine (RTC-2017-6253-1), MCIU (Spanish Government), 1/1/2019- 31/12/2021.
-- (PI) Ayudas para la contratación de Ayudantes de Investigación de la Comunidad de Madrid (PEJ-2017-AI/TIC-6403), Comunidad de Madrid (Regional Government), 20/02/2018 - 19/02/2020.
-- (Researcher) Inteligencia artificial y métodos matemáticos avanzados para el reconocimiento automático de actividades humanas en sistemas de inteligencia ambiental (TIN2015-69542-C2-1-R), MINECO (Spanish Government), 1/1/2016- 31/12/2018.
-- (Researcher) ABC4EU - Automated Border Control Gates for Europe (312797), Seventh Framework Programme, European Commission, 01/01/2014 - 31/03/2018.
-- (Researcher) Seguimiento Acelerado de Múltiples Objetos Articulados TIN2011-28151, MAETD (Spanish Government), 01/01/2012 - 31/05/2015.
-- (Researcher) V-ATRAP: Videovigilancia asistida en Tiempo Real mediante Hardware de Altas Prestaciones (URJC-CM-2007-CET-1724), URJC and Comunidad de Madrid (Regional Government) 01/01/2008 - 31/12/2008.
-- (PI) Análisis de algoritmos de equilibrio de carga de trabajo para clusters heterogéneos y sistemas Grid, URJC and Comunidad de Madrid (Regional Government), 15/12/2004 - 30/09/2005
-- (Researcher) GATAVIRSA: Algoritmos, Técnicas y Aplicaciones de Realidad Virtual y Simulación Avanzada (S-0505/DPI/0235), 01/01/2006 - 31/12/2009.
-- (Researcher) Entrenadores virtuales mediante plataformas de bajo coste (TIC-2003-08933-C02), CICYT (Spanish Governemnt), 01/11/2003 - 01/11/2006.
+- Innovación y Protección de Datos, Agencia Española de Protección de Datos, 2022: [Identidad, biometría y privacidad (vídeo)](https://www.youtube.com/watch?v=SQPZTem5um4&t=1010s)
+- XV Jornadas STIC CCN-CERT, 2021: [Competencias para la formación universitaria en ciberseguridad (vídeo)](https://www.youtube.com/watch?v=mUwwpk_OsMY&list=PLIZWmGs0YDodIdpuubVCF_ivsNrd-VmmT&index=21)
+- XV Jornadas STIC CCN-CERT, 2021: [Los expertos hablan de ciberseguridad (podcast)](https://www.youtube.com/watch?v=kjm_nn-fRD0&t=13s)
+- Charlas con autores RaMa, 2021: [Ciencia de datos para la ciberseguridad (vídeo)](https://www.youtube.com/watch?v=FV0qG-asz-U&list=PL22MZPfNsT7GHJxPczjsfrs1UkWMymBtI&index=2)
+- Charlas con autores RaMa, 2021: [Criptografía esencial (vídeo)](https://www.youtube.com/watch?v=3gW3-PXoWXo&list=PL22MZPfNsT7GHJxPczjsfrs1UkWMymBtI&index=3)
+- Charlas con autores RaMa 2021: [Aspectos jurídicos de la ciberseguridad (vídeo)](https://www.youtube.com/watch?v=e9tDS7TNPFg&list=PL22MZPfNsT7GHJxPczjsfrs1UkWMymBtI&index=1)
+- Foro de la Gobernanza de Internet, 2020: [Gestión de la identidad en Internet evolución, retos y expectativas (vídeo)](https://www.youtube.com/watch?v=Dhiiqm578CE&list=PLPF_vM881AyuKPzPnfOQ2VhcyVhGhZWhB)
+- Charletas jurídicas en tiempo de coronavirus, 2020 [Seguridad y ciberdelincuencia (vídeo)](https://www.youtube.com/watch?v=JedNZ7Ji3Ms&t=12s)
+- TechFest, 2020: [En manos de quién te gustaría dejar la gestión de tu identidad digital? (vídeo)](https://www.youtube.com/watch?v=wkmT-mHgV2Q)
+- Instituto DEMOSPAZ- UAM, 2020: [Big data: ciencia de los datos, transformaciones sociales y DDHH (vídeo)](https://www.youtube.com/watch?v=uAT4eEny1io&t=961s)
+- Acto de Santo Tomás de Aquino, Universidad Rey Juan Carlos, 2020: [Laudatio Honoris Causa Chema Alonso (vídeo)](https://tv.urjc.es/video/5e303819d68b1477738b4fb5)
+- TarugoConf, 2019: [Software en un mundo post-RGPD (vídeo)](https://vimeo.com/401845152)
+- Woman Techmakers Madrid, 2017: [Internet of Things para todos (vídeo)](https://www.youtube.com/watch?v=Fo1N9gD2qy0&t=2073s) 
+- Meetup Madrid Sur, jornadas: "Aquí también hay esperanza", 2017: [La investigación en España (vídeo)](https://www.youtube.com/results?search_query=marta+beltran)
+
 
 Articles for the General Public (Spanish)
 ======
