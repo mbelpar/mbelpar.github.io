@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Marta Beltrán"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am an Associate Professor at Universidad Rey Juan Carlos in Madrid (https://gestion2.urjc.es/pdi/ver/marta.beltran) security and privacy. My main research interests are:
+I am an Associate Professor at Universidad Rey Juan Carlos in Madrid (<a href="https://gestion2.urjc.es/pdi/ver/marta.beltran">https://gestion2.urjc.es/pdi/ver/marta.beltran</a>) security and privacy. My main research interests are:
 
 1. Cybersecurity and Privacy: IAAA mechanisms; remote attestation; adaptive, intelligent and context-aware security and privacy; new threats and vulnerabilities in cloud contexts, Internet of Things, Industry 4.0, Data Science projects.
 
