@@ -11,7 +11,7 @@ redirect_from:
 
 Scientific Journal and Conferences
 ======
-You can find them in [Google Scholar](https://scholar.google.com/citations?user=aPoIuYIAAAAJ&hl=es), [ORCID](https://orcid.org/0000-0002-1689-7479) or [DBLP](https://dblp.uni-trier.de/pid/67/6200.html). 
+You can find them at [Google Scholar](https://scholar.google.com/citations?user=aPoIuYIAAAAJ&hl=es), [ORCID](https://orcid.org/0000-0002-1689-7479) or [DBLP](https://dblp.uni-trier.de/pid/67/6200.html). 
 
 Scientific Book Chapters
 ======
