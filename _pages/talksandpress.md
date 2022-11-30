@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Dissemination Activities"
+title: ""
 permalink: /talksandpress/
 author_profile: true
 redirect_from:
