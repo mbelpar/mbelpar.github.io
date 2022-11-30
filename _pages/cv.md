@@ -40,7 +40,7 @@ Service
 - Conference Technical Programme Chair: EPEW 2015 and BRAINS 2021.
 - Conference General Chair: JNIC 2017 and BRAINS 2022.
 - Journal Guest Editor:  IEEE Transactions on Network and Service Management, special number "Recent Advances on Blockchain for Network and Service Management" (2022); Future Generation Computer systems, special issue on Cybersecurity in the digital world (2022).
-- Knowledge transfer collaborating with research networks, regulators and standardization bodies: RENIC (since 2016), Science in the Parliament (since 2018), UNE CTN 320 (since 2018), Internet Governance Forum (since 2018), Internet Users Association (since 2019), OEA (since 2020).
+- Knowledge transfer collaborating with research networks, regulators and standardization bodies: RENIC (since 2016), Science in the Parliament and Oficina C (since 2018), UNE CTN 320 (since 2018), Internet Governance Forum (Spanish chapter, since 2018), Internet Users Association (since 2019), OEA (since 2020).
 - Teaching Innovation Projects: Helping the computer architecture student with the MIPS64 (2007), Using simulators to learn about Cloud Computing (2010), Service Learning in CyberSecurity (2018-2022). 
 
 Leadership and management 
