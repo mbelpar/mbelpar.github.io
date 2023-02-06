@@ -30,7 +30,7 @@ Talks and Podcasts (Spanish)
 
 Articles for the General Public (Spanish)
 ======
-- ¿Qué es un gestor de contraseñas y cómo afecta a los usuarios la brecha de datos de LastPass? [(The Conversation, Enero 2023)](https://theconversation.com/por-que-nos-preocupa-solo-pegasus-si-estamos-constantemente-vigilados-184872](https://theconversation.com/que-es-un-gestor-de-contrasenas-y-como-afecta-a-los-usuarios-la-brecha-de-datos-de-lastpass-197582)
+- Qué es un gestor de contraseñas y cómo afecta a los usuarios la brecha de datos de LastPass [(The Conversation, Enero 2023)](https://theconversation.com/que-es-un-gestor-de-contrasenas-y-como-afecta-a-los-usuarios-la-brecha-de-datos-de-lastpass-197582)
 - ¿Por qué nos preocupa solo Pegasus si estamos constantemente vigilados? [(The Conversation, Julio 2022)](https://theconversation.com/por-que-nos-preocupa-solo-pegasus-si-estamos-constantemente-vigilados-184872)
 - ¿Serviría de algo prohibir Pegasus? [(The Conversation, Mayo 2022)](https://theconversation.com/serviria-de-algo-prohibir-pegasus-182381)
 - ¿Puede la invasión de Ucrania intensificar la ciberguerra? [(The Conversation, Marzo 2022)](https://theconversation.com/puede-la-invasion-de-ucrania-intensificar-la-ciberguerra-178366)
