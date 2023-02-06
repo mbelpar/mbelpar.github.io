@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-News
-======
-We are hiring! 3 funded full-time Junior Researcher/PhD Positions in cyber risk and cybersecurity. More info [here.](https://mbelpar.github.io/files/DICYME offer.pdf)
-
-
 About me
 ======
 I am an Associate Professor at [Rey Juan Carlos University in Madrid](https://gestion2.urjc.es/pdi/ver/marta.beltran) working on security and privacy in distributed systems. My main research interests are:
