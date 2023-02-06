@@ -30,6 +30,7 @@ Talks and Podcasts (Spanish)
 
 Articles for the General Public (Spanish)
 ======
+- ¿Qué es un gestor de contraseñas y cómo afecta a los usuarios la brecha de datos de LastPass? [(The Conversation, Enero 2023)]([https://theconversation.com/por-que-nos-preocupa-solo-pegasus-si-estamos-constantemente-vigilados-184872](https://theconversation.com/que-es-un-gestor-de-contrasenas-y-como-afecta-a-los-usuarios-la-brecha-de-datos-de-lastpass-197582))
 - ¿Por qué nos preocupa solo Pegasus si estamos constantemente vigilados? [(The Conversation, Julio 2022)](https://theconversation.com/por-que-nos-preocupa-solo-pegasus-si-estamos-constantemente-vigilados-184872)
 - ¿Serviría de algo prohibir Pegasus? [(The Conversation, Mayo 2022)](https://theconversation.com/serviria-de-algo-prohibir-pegasus-182381)
 - ¿Puede la invasión de Ucrania intensificar la ciberguerra? [(The Conversation, Marzo 2022)](https://theconversation.com/puede-la-invasion-de-ucrania-intensificar-la-ciberguerra-178366)
@@ -51,6 +52,8 @@ del big data [(Revista Telos, Julio 2019)](https://telos.fundaciontelefonica.com
 
 Press and Media Collaborations (Spanish)
 ======
+- [El País "EE.UU. contra TikTok, por motivos de seguridad", 2023 (vídeo)](https://www.youtube.com/watch?v=KiIN1nSPp8U)
+- [Maldita Twitchería "¿Te puede espiar la aspiradora", 2023 (vídeo)](https://www.youtube.com/watch?v=XBtIOs1PyPg)
 - [Público "Por qué es importante la filtración masiva de material del videojuego GTA VI", 2022 (texto)](https://www.publico.es/culturas/importante-filtracion-masiva-material-videojuego-gta-vi.html)
 - [RTVE, Las Claves "Espionaje llevado a cabo con Pegasus", 2022 (vídeo)](https://www.rtve.es/play/videos/las-claves-del-siglo-xxi/programa-15/6530349/)
 - [RTVE, Telediario 2 "La otra cara de la guerra se libra en internet: desinformación para desmoralizar a los ciudadanos", 2022 (vídeo)](https://www.rtve.es/play/videos/telediario-2/la-otra-cara-de-la-guerra-se-libra-en-internet-desinformacion-para-desmoralizar-a-los-ciudadanos/6393207/)
@@ -61,7 +64,7 @@ Press and Media Collaborations (Spanish)
 - [Maldita Tecnología "Secuestradores de navegadores: una extensión maliciosa que puede afectar a tu navegación", 2021 (texto)](https://maldita.es/malditatecnologia/20211112/secuestradores-navegadores/)
 - [RTVE, Telediario 1 "El teletrabajo multiplica los problemas de ciberseguridad", 2021 (vídeo)](https://www.rtve.es/play/videos/telediario/teletrabajo-multiplica-problemas-seguridad/5775163/)
 - [Radio Castilla la Mancha, Generador de Ideas "Las brechas de datos", 2021 (audio)](https://www.youtube.com/watch?v=CivaMmvmnIg)
-- [Maldita Twitchería "Estás en las nubes", 2021 (vídeo)](https://www.twitch.tv/videos/1030056472?t=0h0m31s)
+- [Maldita Twitchería "Estás en las nubes", 2021 (vídeo)](https://www.youtube.com/watch?v=7Vuug6guEDk)
 - [RTVE, Telediario 1 "Caída de Google (minuto 28.25), 2020 (vídeo)](https://www.rtve.es/play/videos/telediario/15-horas-28-12-20/5747566/)
 - [Maldita Tecnología "Sí, sí que es posible que infecten nuestro teléfono enviando un archivo como una foto a través de WhatsApp", 2020 (texto)](https://maldita.es/malditatecnologia/20201029/si-es-posible-infectar-telefono-enviando-archivo-foto-whatsapp//)
 - [Cadena Ser, A vivir "Ataques informáticos y COVID", 2020 (audio)](https://play.cadenaser.com/audio/1603017430_577304/)
