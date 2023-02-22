@@ -12,6 +12,7 @@ redirect_from:
 Research Projects
 ======
 - (PI) DICYME: Dynamic Industrial CYberrisk Modelling based on Evidence (CPP2021-009025), Ministerio de Ciencia e Innovación (Spanish Government), 01/09/2022-31/08/2025.
+- (PI) Investigación sobre mecanismos de control de acceso respetuosos con la privacidad a contenidos para adultos en Internet, Agencia Española de Protección de Datos (Spanish Government), 1/02/2023-31/07/2023.
 - (Researcher) Edge Data: Una infraestructura para sistemas híbridos altamente descentralizados (P2018/TCS-4499), Comunidad de Madrid (Regional Government), 1/1/2019-31/04/2023.
 - (PI) Impacto de las técnicas de reconocimiento facial en la privacidad de las personas, Agencia Española de Protección de Datos (Spanish Government), 21/01/2022-20/07/2022.
 - (Researcher) SaberMED: Swarm Agent-Based Environment For Reputation in MEDicine (RTC-2017-6253-1), MCIU (Spanish Government), 1/1/2019- 31/12/2021.
