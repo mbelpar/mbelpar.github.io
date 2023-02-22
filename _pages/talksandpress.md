@@ -11,6 +11,7 @@ redirect_from:
 
 Talks and Podcasts (Spanish)
 ======
+- Cosas de Hackers, 2023: [Universidad Tecnológica, Seguridad IoT y mucho + (vídeo)](https://www.youtube.com/watch?v=-VKP93MvxfA&t=1218s)
 - Hack&Beers Madrid, Vol.17, 2022: [Hacking IoT (slides)](https://mbelpar.github.io/files/talks/mbeltran hack&beers Madrid2022.pdf)
 - Innovación y Protección de Datos, Agencia Española de Protección de Datos, 2022: [Identidad, biometría y privacidad (vídeo)](https://www.youtube.com/watch?v=SQPZTem5um4&t=1010s)
 - XV Jornadas STIC CCN-CERT, 2021: [Competencias para la formación universitaria en ciberseguridad (vídeo)](https://www.youtube.com/watch?v=mUwwpk_OsMY&list=PLIZWmGs0YDodIdpuubVCF_ivsNrd-VmmT&index=21)
