@@ -11,6 +11,7 @@ redirect_from:
 
 Talks and Podcasts (Spanish)
 ======
+- RootedCon, 2023: [Nuevos (y viejos) enfoques para la gestión de identidades y accesos (slides)](https://mbelpar.github.io/files/talks/mbeltran Rooted 2023 publica.pdf)
 - Cosas de Hackers, 2023: [Universidad Tecnológica, Seguridad IoT y mucho más (vídeo)](https://www.youtube.com/watch?v=-VKP93MvxfA&t=1218s)
 - Hack&Beers Madrid, Vol.17, 2022: [Hacking IoT (slides)](https://mbelpar.github.io/files/talks/mbeltran hack&beers Madrid2022.pdf)
 - Innovación y Protección de Datos, Agencia Española de Protección de Datos, 2022: [Identidad, biometría y privacidad (vídeo)](https://www.youtube.com/watch?v=SQPZTem5um4&t=1010s)
