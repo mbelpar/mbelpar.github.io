@@ -32,7 +32,7 @@ Talks and Podcasts (Spanish)
 
 Articles for the General Public (Spanish)
 ======
-- El papel del ciberconflicto en Ucrania sigue siendo una incógnita un año después [(Revista Telos, Abril 2023)]([https://theconversation.com/que-es-un-gestor-de-contrasenas-y-como-afecta-a-los-usuarios-la-brecha-de-datos-de-lastpass-197582](https://telos.fundaciontelefonica.com/el-papel-del-ciberconflicto-en-ucrania-sigue-siendo-una-incognita-un-ano-despues/))
+- El papel del ciberconflicto en Ucrania sigue siendo una incógnita un año después [(Revista Telos, Abril 2023)](https://telos.fundaciontelefonica.com/el-papel-del-ciberconflicto-en-ucrania-sigue-siendo-una-incognita-un-ano-despues/)
 - Qué es un gestor de contraseñas y cómo afecta a los usuarios la brecha de datos de LastPass [(The Conversation, Enero 2023)](https://theconversation.com/que-es-un-gestor-de-contrasenas-y-como-afecta-a-los-usuarios-la-brecha-de-datos-de-lastpass-197582)
 - ¿Por qué nos preocupa solo Pegasus si estamos constantemente vigilados? [(The Conversation, Julio 2022)](https://theconversation.com/por-que-nos-preocupa-solo-pegasus-si-estamos-constantemente-vigilados-184872)
 - ¿Serviría de algo prohibir Pegasus? [(The Conversation, Mayo 2022)](https://theconversation.com/serviria-de-algo-prohibir-pegasus-182381)
