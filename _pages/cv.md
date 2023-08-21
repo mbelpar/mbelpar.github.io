@@ -25,6 +25,7 @@ Accreditations, awards and distinctions
 - ACAP accredited for "Profesor Contratado Doctor", 2007.
 - National Habilitation in Computer Architecture (Profesor Titular de Universidad), 2008.
 - Three CNEAI research distinctions (sexenios), periods 2004-2009, 2010-2016 and 2017-2022.
+- Five DOCENTIA recognitions.
 - Special mention in the IPPI awards (URJC Teaching Innovation), 2014 and 2017.
 - IEEE Senior Member, since 2015.
 - Ada Byron Prize finalist (Women in Technology), 2016-2022.
