@@ -11,6 +11,7 @@ redirect_from:
 
 Talks and Podcasts (Spanish)
 ======
+- V Aniversario The Conversation España, 2023:  [Conversando que es gerundio (vídeo)](https://www.youtube.com/watch?v=yicJi6xqrCA)
 - RootedCon, 2023: [Nuevos (y viejos) enfoques para la gestión de identidades y accesos (slides)](https://mbelpar.github.io/files/talks/mbeltran Rooted 2023 publica.pdf)
 - Cosas de Hackers, 2023: [Universidad Tecnológica, Seguridad IoT y mucho más (vídeo)](https://www.youtube.com/watch?v=-VKP93MvxfA&t=1218s)
 - Hack&Beers Madrid, Vol.17, 2022: [Hacking IoT (slides)](https://mbelpar.github.io/files/talks/mbeltran hack&beers Madrid2022.pdf)
@@ -32,6 +33,7 @@ Talks and Podcasts (Spanish)
 
 Articles for the General Public (Spanish)
 ======
+- Conozca los riesgos que implica usar reconocimiento facial (especialmente en vacaciones) [(The Conversation, Junio 2023)](https://theconversation.com/conozca-los-riesgos-que-implica-usar-reconocimiento-facial-especialmente-en-vacaciones-207764)
 - El papel del ciberconflicto en Ucrania sigue siendo una incógnita un año después [(Revista Telos, Abril 2023)](https://telos.fundaciontelefonica.com/el-papel-del-ciberconflicto-en-ucrania-sigue-siendo-una-incognita-un-ano-despues/)
 - Qué es un gestor de contraseñas y cómo afecta a los usuarios la brecha de datos de LastPass [(The Conversation, Enero 2023)](https://theconversation.com/que-es-un-gestor-de-contrasenas-y-como-afecta-a-los-usuarios-la-brecha-de-datos-de-lastpass-197582)
 - ¿Por qué nos preocupa solo Pegasus si estamos constantemente vigilados? [(The Conversation, Julio 2022)](https://theconversation.com/por-que-nos-preocupa-solo-pegasus-si-estamos-constantemente-vigilados-184872)
@@ -55,7 +57,7 @@ del big data [(Revista Telos, Julio 2019)](https://telos.fundaciontelefonica.com
 
 Press and Media Collaborations (Spanish)
 ======
-- [Maldita Tecnología "SCifrado de extremo a extremo, privacidad y ciberseguridad: ¿cómo nos afectaría que se rompa y se pueda acceder a nuestras comunicaciones?", 2023 (texto)](https://maldita.es/malditatecnologia/20230601/cifrado-extremo-extremo-consecuencias-privacidad-ciberseguridad/)
+- [Maldita Tecnología "Cifrado de extremo a extremo, privacidad y ciberseguridad: ¿cómo nos afectaría que se rompa y se pueda acceder a nuestras comunicaciones?", 2023 (texto)](https://maldita.es/malditatecnologia/20230601/cifrado-extremo-extremo-consecuencias-privacidad-ciberseguridad/)
 - [Cuadernos de Seguridad "Entrevista a Marta Beltrán", 2023 (texto)](https://cuadernosdeseguridad.com/2023/05/entrevista-marta-beltran-pardo/)
 - [El País "EE.UU. contra TikTok, por motivos de seguridad", 2023 (vídeo)](https://www.youtube.com/watch?v=KiIN1nSPp8U)
 - [Maldita Twitchería "¿Te puede espiar la aspiradora", 2023 (vídeo)](https://www.youtube.com/watch?v=XBtIOs1PyPg)
