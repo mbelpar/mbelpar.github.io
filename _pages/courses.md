@@ -12,8 +12,8 @@ redirect_from:
 Courses taught at undergraduate level
 ======
 
-- Cybersecurity Fundamentals (2022/2023).
-- Risk Analysis and Management (2022/2023).
+- Cybersecurity Fundamentals.
+- Risk Analysis and Management.
 - Hacking Techniques
 - Computer Fundamentals.
 - Computer Structure and Technology.
@@ -28,7 +28,7 @@ Courses taught at undergraduate level
 Courses taught at postgraduate level (master and doctoral)
 ======
 
-- Cloud Services Security (2022/2023).
+- Cloud Services Security.
 - Privacy and Data Protection for Data Science.
 - Vulnerability Exploitation.
 - Cualitative and Cuantitative Tools for Research in Computing.
@@ -38,7 +38,7 @@ Courses taught at postgraduate level (master and doctoral)
 Ph.D. Thesis Supervising
 ======
 
--  Miguel Calvo, 2023 (expected).
+- "Dynamic security: mechanisms and application domains", Miguel Calvo, 2023.
 - "Privacy strategies for Identity and Access Management", Carlos Villarán, 2022.
 - "Using Behaviour Analytics techniques to improve Federated Identity Management", Alejandro García de Marina, 2022 (co-supervised with Isaac Martín de Diego).
 - "Designing secure applications and services based on NFC", Sergio Ríos, 2021.
