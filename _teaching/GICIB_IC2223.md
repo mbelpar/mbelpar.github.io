@@ -29,4 +29,4 @@ Materiales
 - Casos prácticos: [Caso 1](https://mbelpar.github.io/files/IC/caso1.pdf), [Caso 2](https://mbelpar.github.io/files/IC/caso2.pdf)
 - [Colección de vídeos](https://tv.urjc.es/series/631b0e4b7e595f7c1b3f79d5)
   
-- [Enlace a la asignatura completa en el Aula Virtual de la URJC](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=196834)
+- [Enlace a la asignatura completa en el Aula Virtual de la URJC](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto/item/1539-introduccion-a-la-ciberseguridad)
