@@ -27,7 +27,7 @@ Materiales
 - [Unidad 10](https://mbelpar.github.io/files/AGR/unidad10.pdf)
 - [Unidad 11](https://mbelpar.github.io/files/AGR/unidad11.pdf)
   
-- Prácticas
+- Prácticas: [Práctica 1](https://mbelpar.github.io/files/AGR/Practica1_Guion.pdf), [Práctica 2](https://mbelpar.github.io/files/AGR/Practica2_Guion.pdf)
 - Casos prácticos: [Caso 1](https://mbelpar.github.io/files/AGR/Caso1_Guion.pdf), [Caso 2](https://mbelpar.github.io/files/AGR/Caso2_Guion.pdf)
 - [Autoevaluación](https://mbelpar.github.io/files/AGR/autoevaluación.pdf)
 
