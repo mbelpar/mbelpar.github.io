@@ -25,6 +25,7 @@ Hacker Cons
 
 Books (Spanish)
 ======
+- Marta Beltrán. Mr. Internet: Cómo se relacionan la tecnología y el género y cómo te afecta a ti (ISBN 978-84-126300-6-0). Next Door Publishers, 2023.
 - Fernando Sevillano y Marta Beltrán. Gestión de los ciberriesgos (ISBN 978-84-18971-29-7). Colección de Formación para el Empleo, grupo editorial RaMa, 2021.
 - Fernando Sevillano, Marta Beltrán y otros autores. Ciberseguridad Industrial e Infraestructuras Críticas (ISBN 978-84-18551-36-9). RaMa, 2021.
 - Fernando Sevillano y Marta Beltrán. Dirección de seguridad y gestión del ciberriesgo (ISBN 978-84-9964-934-4). RaMa, 2020.
