@@ -62,7 +62,7 @@ del big data [(Revista Telos, Julio 2019)](https://telos.fundaciontelefonica.com
 
 Press and Media Collaborations (Spanish)
 ======
-- [Maldita "Mr. Internet: por qué la tecnología no es neutra"](https://www.youtube.com/watch?v=lSJldBdsBqY)
+- [Maldita "Mr. Internet: por qué la tecnología no es neutra", 2023 (vídeo)](https://www.youtube.com/watch?v=lSJldBdsBqY)
 - [Maldita Tecnología "Cifrado de extremo a extremo, privacidad y ciberseguridad: ¿cómo nos afectaría que se rompa y se pueda acceder a nuestras comunicaciones?", 2023 (texto)](https://maldita.es/malditatecnologia/20230601/cifrado-extremo-extremo-consecuencias-privacidad-ciberseguridad/)
 - [Cuadernos de Seguridad "Entrevista a Marta Beltrán", 2023 (texto)](https://cuadernosdeseguridad.com/2023/05/entrevista-marta-beltran-pardo/)
 - [El País "EE.UU. contra TikTok, por motivos de seguridad", 2023 (vídeo)](https://www.youtube.com/watch?v=KiIN1nSPp8U)
