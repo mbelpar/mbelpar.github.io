@@ -12,6 +12,7 @@ redirect_from:
 Talks and Podcasts (Spanish)
 ======
 - Mr Internet. Cómo se relacionan la tecnología y el género y como te afecta a ti, 2023:  [Presentación del libro (vídeo)](https://www.youtube.com/watch?v=gOZfw7hb7Ek)
+- Espacio Madresfera, 2023: [Programa como una niña (vídeo)](https://www.youtube.com/watch?v=2BiHGR4k92c) 
 - Curso de verano UNIA, 2023: [Amenazas para la privacidad y medidas de seguridad en el ámbito de los nuevos paradigmas tecnológicos (slides)](https://mbelpar.github.io/files/talks/mbeltran UNIA 2023.pdf)
 - V Aniversario The Conversation España, 2023:  [Conversando que es gerundio (vídeo)](https://www.youtube.com/watch?v=yicJi6xqrCA)
 - RootedCon, 2023: [Nuevos (y viejos) enfoques para la gestión de identidades y accesos (slides)](https://mbelpar.github.io/files/talks/mbeltran Rooted 2023 publica.pdf)
@@ -35,6 +36,7 @@ Talks and Podcasts (Spanish)
 
 Articles for the General Public (Spanish)
 ======
+- Ciberataques: el otro frente en la guerra entre Israel y Hamás [(The Conversation, Octubre 2023)](https://theconversation.com/ciberataques-el-otro-frente-en-la-guerra-entre-israel-y-hamas-215483)
 - Mr. Internet tiene género: por qué la tecnología no es neutra [(The Conversation, Septiembre 2023)](https://theconversation.com/mr-internet-tiene-genero-por-que-la-tecnologia-no-es-neutra-214012)
 - Conozca los riesgos que implica usar reconocimiento facial (especialmente en vacaciones) [(The Conversation, Junio 2023)](https://theconversation.com/conozca-los-riesgos-que-implica-usar-reconocimiento-facial-especialmente-en-vacaciones-207764)
 - El papel del ciberconflicto en Ucrania sigue siendo una incógnita un año después [(Revista Telos, Abril 2023)](https://telos.fundaciontelefonica.com/el-papel-del-ciberconflicto-en-ucrania-sigue-siendo-una-incognita-un-ano-despues/)
@@ -60,6 +62,7 @@ del big data [(Revista Telos, Julio 2019)](https://telos.fundaciontelefonica.com
 
 Press and Media Collaborations (Spanish)
 ======
+- [Maldita "Mr. Internet: por qué la tecnología no es neutra"](https://www.youtube.com/watch?v=lSJldBdsBqY)
 - [Maldita Tecnología "Cifrado de extremo a extremo, privacidad y ciberseguridad: ¿cómo nos afectaría que se rompa y se pueda acceder a nuestras comunicaciones?", 2023 (texto)](https://maldita.es/malditatecnologia/20230601/cifrado-extremo-extremo-consecuencias-privacidad-ciberseguridad/)
 - [Cuadernos de Seguridad "Entrevista a Marta Beltrán", 2023 (texto)](https://cuadernosdeseguridad.com/2023/05/entrevista-marta-beltran-pardo/)
 - [El País "EE.UU. contra TikTok, por motivos de seguridad", 2023 (vídeo)](https://www.youtube.com/watch?v=KiIN1nSPp8U)
