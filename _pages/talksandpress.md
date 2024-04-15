@@ -12,7 +12,7 @@ redirect_from:
 Talks and Podcasts (Spanish)
 ======
 - T3chFest, 2024:  [¿Cuántos años tienes en Internet? (vídeo)](https://www.youtube.com/watch?v=kHIPvc78kZ8)
-- RootedCon, 2024: [Por la cara: Retos y oportunidades del reconocimiento facial (slides)](https://mbelpar.github.io/files/talks/mbeltran Rooted 2024 publica.pdf)
+- RootedCon, 2024: [Por la cara: Retos y oportunidades del reconocimiento facial (slides)](https://mbelpar.github.io/files/talks/mbeltran rooted 2024 publica.pdf)
 - Mr Internet. Cómo se relacionan la tecnología y el género y como te afecta a ti, 2023:  [Presentación del libro (vídeo)](https://www.youtube.com/watch?v=gOZfw7hb7Ek)
 - Espacio Madresfera, 2023: [Programa como una niña (vídeo)](https://www.youtube.com/watch?v=2BiHGR4k92c) 
 - Curso de verano UNIA, 2023: [Amenazas para la privacidad y medidas de seguridad en el ámbito de los nuevos paradigmas tecnológicos (slides)](https://mbelpar.github.io/files/talks/mbeltran UNIA 2023.pdf)
