@@ -62,6 +62,9 @@ del big data [(Revista Telos, Julio 2019)](https://telos.fundaciontelefonica.com
 
 Press and Media Collaborations (Spanish)
 ======
+- [RTVE, La Aventura del Saber "Mr. Internet", 2024 (vídeo)](https://www.rtve.es/play/videos/la-aventura-del-saber/aventura-del-saber-marta-beltran-mr-internet/7052172/)
+- [elDiario.es "Las imágenes de Google amplifican y refuerzan los estereotipos machistas", 2024 (texto)](https://www.eldiario.es/sociedad/imagenes-google-amplifican-refuerzan-estereotipos-machistas_1_10918046.html)
+- [elDiario.es "Imágenes falsas de menores desnudas, acoso, sesgos machistas: 'Mr. Internet' es un señor que no ama a las mujeres", 2023 (texto)](https://www.eldiario.es/sociedad/imagenes-falsas-menores-desnudas-acoso-sesgos-machistas-mr-internet-senor-no-ama-mujeres_128_10624241.html)
 - [Maldita "Mr. Internet: por qué la tecnología no es neutra", 2023 (vídeo)](https://www.youtube.com/watch?v=lSJldBdsBqY)
 - [Maldita Tecnología "Cifrado de extremo a extremo, privacidad y ciberseguridad: ¿cómo nos afectaría que se rompa y se pueda acceder a nuestras comunicaciones?", 2023 (texto)](https://maldita.es/malditatecnologia/20230601/cifrado-extremo-extremo-consecuencias-privacidad-ciberseguridad/)
 - [Cuadernos de Seguridad "Entrevista a Marta Beltrán", 2023 (texto)](https://cuadernosdeseguridad.com/2023/05/entrevista-marta-beltran-pardo/)
