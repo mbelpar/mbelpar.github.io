@@ -11,6 +11,8 @@ redirect_from:
 
 Talks and Podcasts (Spanish)
 ======
+- RootedCon, 2025: [La supuesta inmutabilidad del blockchain... y el derecho al olvido (slides)](https://mbelpar.github.io/files/talks/aepd_rooted2025.pdf)
+- TechDispatch Talks, 2024:  [Neurodata (audio, EN)](https://www.edps.europa.eu/press-publications/publications/podcasts/techdispatch-talks-3-neurodata_en)
 - T3chFest, 2024:  [¿Cuántos años tienes en Internet? (vídeo)](https://www.youtube.com/watch?v=kHIPvc78kZ8)
 - RootedCon, 2024: [Por la cara: Retos y oportunidades del reconocimiento facial (slides)](https://mbelpar.github.io/files/talks/mbeltran_rooted2024_publica.pdf)
 - Mr Internet. Cómo se relacionan la tecnología y el género y como te afecta a ti, 2023:  [Presentación del libro (vídeo)](https://www.youtube.com/watch?v=gOZfw7hb7Ek)
@@ -64,6 +66,7 @@ del big data [(Revista Telos, Julio 2019)](https://telos.fundaciontelefonica.com
 
 Press and Media Collaborations (Spanish)
 ======
+- [RTVE, En Portada "Desconectados", 2024 (vídeo)](https://www.rtve.es/play/videos/en-portada/desconectados/16337214/)
 - [RTVE, La Aventura del Saber "Mr. Internet", 2024 (vídeo)](https://www.rtve.es/play/videos/la-aventura-del-saber/aventura-del-saber-marta-beltran-mr-internet/7052172/)
 - [elDiario.es "Las imágenes de Google amplifican y refuerzan los estereotipos machistas", 2024 (texto)](https://www.eldiario.es/sociedad/imagenes-google-amplifican-refuerzan-estereotipos-machistas_1_10918046.html)
 - [elDiario.es "Imágenes falsas de menores desnudas, acoso, sesgos machistas: 'Mr. Internet' es un señor que no ama a las mujeres", 2023 (texto)](https://www.eldiario.es/sociedad/imagenes-falsas-menores-desnudas-acoso-sesgos-machistas-mr-internet-senor-no-ama-mujeres_128_10624241.html)
