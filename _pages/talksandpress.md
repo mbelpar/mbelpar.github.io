@@ -11,7 +11,7 @@ redirect_from:
 
 Talks and Podcasts (Spanish)
 ======
-- T3chFest, 2025: [Scrolling infinito y otros patrones de diseño adictivos (video)](https://www.youtube.com/watch?v=6vIwpNxt9Hg&list=PLqgZDFdwyB8aL87rA1324Sa1ic7x4DMM6&index=14) [(slides)](https://mbelpar.github.io/files/talks/mbeltran techfest 2025.pdf)
+- T3chFest, 2025: [Scrolling infinito y otros patrones de diseño adictivos (video)](https://www.youtube.com/watch?v=6vIwpNxt9Hg&list=PLqgZDFdwyB8aL87rA1324Sa1ic7x4DMM6&index=14), [(slides)](https://mbelpar.github.io/files/talks/mbeltran_techfest_2025.pdf)
 - RootedCon, 2025: [La supuesta inmutabilidad del blockchain... y el derecho al olvido (slides)](https://mbelpar.github.io/files/talks/aepd_rooted2025.pdf)
 - TechDispatch Talks, 2024:  [Neurodata (audio, EN)](https://www.edps.europa.eu/press-publications/publications/podcasts/techdispatch-talks-3-neurodata_en)
 - T3chFest, 2024:  [¿Cuántos años tienes en Internet? (vídeo)](https://www.youtube.com/watch?v=kHIPvc78kZ8)
