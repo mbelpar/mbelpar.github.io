@@ -11,7 +11,8 @@ redirect_from:
 
 Talks and Podcasts (Spanish)
 ======
-- T3chFest, 2025: [Scrolling infinito y otros patrones de diseño adictivos (video)](https://www.youtube.com/watch?v=6vIwpNxt9Hg&list=PLqgZDFdwyB8aL87rA1324Sa1ic7x4DMM6&index=14), [(slides)](https://mbelpar.github.io/files/talks/mbeltran_techfest_2025.pdf)
+- Mesa redonda presentación Telos 127, 2025: [Generación Alfabeta (vídeo)](https://www.youtube.com/embed/WFfahmofQQU)
+- T3chFest, 2025: [Scrolling infinito y otros patrones de diseño adictivos (vídeo)](https://www.youtube.com/watch?v=6vIwpNxt9Hg&list=PLqgZDFdwyB8aL87rA1324Sa1ic7x4DMM6&index=14), [(slides)](https://mbelpar.github.io/files/talks/mbeltran_techfest_2025.pdf)
 - RootedCon, 2025: [La supuesta inmutabilidad del blockchain... y el derecho al olvido (slides)](https://mbelpar.github.io/files/talks/aepd_rooted2025.pdf)
 - TechDispatch Talks, 2024:  [Neurodata (audio, EN)](https://www.edps.europa.eu/press-publications/publications/podcasts/techdispatch-talks-3-neurodata_en)
 - T3chFest, 2024:  [¿Cuántos años tienes en Internet? (vídeo)](https://www.youtube.com/watch?v=kHIPvc78kZ8)
@@ -41,6 +42,7 @@ Talks and Podcasts (Spanish)
 
 Articles for the General Public (Spanish)
 ======
+- ¿Cómo diseñar tecnología más segura para niños y adolescentes? [(Revista Telos, Junio 2025)](https://telos.fundaciontelefonica.com/telos-127-generacion-alfabeta-como-disenar-tecnologia-mas-segura-para-ninos-y-adolescentes/)
 - Ciberataques: el otro frente en la guerra entre Israel y Hamás [(The Conversation, Octubre 2023)](https://theconversation.com/ciberataques-el-otro-frente-en-la-guerra-entre-israel-y-hamas-215483)
 - Mr. Internet tiene género: por qué la tecnología no es neutra [(The Conversation, Septiembre 2023)](https://theconversation.com/mr-internet-tiene-genero-por-que-la-tecnologia-no-es-neutra-214012)
 - Conozca los riesgos que implica usar reconocimiento facial (especialmente en vacaciones) [(The Conversation, Junio 2023)](https://theconversation.com/conozca-los-riesgos-que-implica-usar-reconocimiento-facial-especialmente-en-vacaciones-207764)
