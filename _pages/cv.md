@@ -15,7 +15,8 @@ Academic background
 - M.D. in Industrial Physics, Universidad Nacional de Educación a Distancia (2001-2003).
 - Ph.D. at the Department of Computing, Universidad Rey Juan Carlos (2001-2005). Thesis: "Load balancing on heterogeneous clusters".
 - M.D. in Scenic Arts, Universidad Rey Juan Carlos-Instituto Alicia Alonso (2005-2007).
-- Ph.D. in Scenic Arts, Universidad Rey Juan Carlos-Instituto Alicia Alonso (since 2007, unfinished)
+- Ph.D. in Scenic Arts, Universidad Rey Juan Carlos-Instituto Alicia Alonso (since 2007, unfinished).
+- Postgraduate in EU Policy Making, Vrije Universiteit Brussel (2024-2025).
 
 Accreditations, awards and distinctions
 ======
@@ -44,11 +45,12 @@ Service
 - Knowledge transfer collaborating with research networks, regulators and standardization bodies: RENIC (since 2016), Science in the Parliament and Oficina C (since 2018), UNE CTN 320 (since 2018), Internet Governance Forum (Spanish chapter, since 2018), Internet Users Association (since 2019), OEA (since 2020).
 - Teaching Innovation Projects: Helping the computer architecture student with the MIPS64 (2007), Using simulators to learn about Cloud Computing (2010), Service Learning in CyberSecurity (2018-2022). 
 
-Leadership and management 
+Leadership and management
 ======
 - Program Coordinator, Cybersecurity Engineering (B.Eng.), Universidad Rey Juan Carlos (2018-2022).
 - Master Director, Cybersecurity and Privacy Program (M.Eng), Universidad Rey Juan Carlos (2017-2022).
 - Cybersecurity MOOC Director, URJCx and MiriadaX (2016-2018).
 - Computer Architecture II area coordinator (2015-2021).
 - Master and Doctoral Program Director, M.Res. in Advanced Hardware and Software Systems, Universidad Rey Juan Carlos (2009-2013).
+- Member of the Advisory Group (“ad personam”), European Union Agency for Cybersecurity (ENISA, 2023-2025).
   
