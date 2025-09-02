@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Research Projects
+Funded Research Projects (at the University)
 ======
 - (PI) DICYME: Dynamic Industrial CYberrisk Modelling based on Evidence (CPP2021-009025), Ministerio de Ciencia e Innovación (Spanish Government), 01/09/2022-31/08/2025.
 - (PI) Investigación sobre mecanismos de control de acceso respetuosos con la privacidad a contenidos para adultos en Internet, Agencia Española de Protección de Datos (Spanish Government), 1/02/2023-31/07/2023.
@@ -25,7 +25,7 @@ Research Projects
 - (Researcher) GATAVIRSA: Algoritmos, Técnicas y Aplicaciones de Realidad Virtual y Simulación Avanzada (S-0505/DPI/0235), 01/01/2006 - 31/12/2009.
 - (Researcher) Entrenadores virtuales mediante plataformas de bajo coste (TIC-2003-08933-C02), CICYT (Spanish Governemnt), 01/11/2003 - 01/11/2006.
 
-Research and Innovation Contracts
+Research and Innovation Contracts (at the University)
 ======
 - (PI) For RatedPower "Research on DevSecOps and dynamic security" (2022-2023)
 - (PI) For DeNexus "Research on quantitative OT cyber risk analysis"(2021-2022)
@@ -40,7 +40,7 @@ Patents and Licenses
 ===
 - Patent ES2609836 "Procedimiento y sistema para la validación de una petición de autenticación/autorización de un usuario" (2017).
 
-Participation in Research Chairs
+Participation in Research Chairs (at the University)
 ===
-- Smart-E2 "Smart Buildings" (from 2021)
-- Ericsson "Data Science and Security in 5G" (from 2016).
+- Smart-E2 "Smart Buildings" (2021-2023)
+- Ericsson "Data Science and Security in 5G" (2016-2018).
