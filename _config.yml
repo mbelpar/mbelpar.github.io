@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marta Beltrán"
 title_separator          : "-"
 name                     : &name "Marta Beltrán"
-description              : &description "Associate Professor"
+description              : &description "Chief Scientist"
 url                      : https://mbelpar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mbelpar/mbelpar.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Marta Beltrán"
   avatar           : "profile.png"
-  bio              : "Associate Professor of Distributed Systems and Cybersecurity&Privacy (on leave)"
+  bio              : "Chief Scientist"
   location         : "Madrid, Spain"
-  employer         : "Rey Juan Carlos University"
+  employer         : "AEPD"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=aPoIuYIAAAAJ&hl=es"
-  email            : "marta.beltran@urjc.es"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
