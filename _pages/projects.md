@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Evidence-informed policy making and foresight (at AEPD)
+Evidence-informed policy making and Foresight (at AEPD)
 ======
 - A safe Internet by default and privacy-preserving age assurance .
 - Deceptive and addictive design patterns.
