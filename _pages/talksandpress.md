@@ -11,6 +11,7 @@ redirect_from:
 
 Talks and Podcasts (Spanish)
 ======
+- RootedCon, 2026: [La nueva cartera de identidad digital europea: ¿poder para los usuarios o puerta a la vigilancia masiva? (slides)](https://mbelpar.github.io/files/talks/aepd_rooted2026.pdf)
 - Mesa redonda presentación Telos 127, 2025: [Generación Alfabeta (vídeo)](https://www.youtube.com/embed/WFfahmofQQU)
 - T3chFest, 2025: [Scrolling infinito y otros patrones de diseño adictivos (vídeo)](https://www.youtube.com/watch?v=6vIwpNxt9Hg&list=PLqgZDFdwyB8aL87rA1324Sa1ic7x4DMM6&index=14), [(slides)](https://mbelpar.github.io/files/talks/mbeltran_techfest_2025.pdf)
 - RootedCon, 2025: [La supuesta inmutabilidad del blockchain... y el derecho al olvido (slides)](https://mbelpar.github.io/files/talks/aepd_rooted2025.pdf)
