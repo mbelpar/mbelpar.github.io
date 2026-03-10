@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am an Associate Professor at Rey Juan Carlos University in Madrid working on security and privacy in distributed systems (on leave). I am currently the Chief of the Scientific Unit at the Spanish Data Protection Authority (AEPD), promoting evidence- and foresight-based public policy making and also a former member of the Advisory Group of the European Union Agency for Cybersecurity (ENISA). My main research interests are:
+I am an Associate Professor at Rey Juan Carlos University in Madrid working on security and privacy in distributed systems (on leave). I am currently the Deputy Director of the Innovation&Technology Division at the Spanish Data Protection Authority (AEPD), leading the Scientific and Foresight Subdivision to promote evidence- and foresight-informed public policy making. I am also a former member of the Advisory Group of the European Union Agency for Cybersecurity (ENISA). My main research interests are:
 
 1. Cybersecurity and Privacy: IAAA mechanisms and identity management; remote attestation; adaptive, intelligent and context-aware security and privacy; new threats and vulnerabilities in cloud contexts, Internet of Things, Industry 4.0, 5G, Data Science&AI.
 
