@@ -17,6 +17,7 @@ Evidence-informed policy making and foresight (at AEPD)
 - Recommender systems and algorithmic recommendations.
 - Privacy threat modelling (LIINE4DU), risk management and DPIAs.
 - Digital identity and EUDI wallets.
+  
 Funded Research Projects (at the University)
 ======
 - (PI) DICYME: Dynamic Industrial CYberrisk Modelling based on Evidence (CPP2021-009025), Ministerio de Ciencia e Innovación (Spanish Government), 01/09/2022-31/08/2025.
