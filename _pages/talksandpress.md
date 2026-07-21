@@ -11,6 +11,7 @@ redirect_from:
 
 Talks and Podcasts (Spanish)
 ======
+- Podcast El Yonki, 2026: [4x25 Marta Beltrán "El algoritmo es nuestro amigo" (vídeo)](https://www.youtube.com/watch?v=0LK6T65Np84)
 - RootedCon, 2026: [La nueva cartera de identidad digital europea: ¿poder para los usuarios o puerta a la vigilancia masiva? (slides)](https://mbelpar.github.io/files/talks/aepd_rooted2026.pdf)
 - Mesa redonda presentación Telos 127, 2025: [Generación Alfabeta (vídeo)](https://www.youtube.com/embed/WFfahmofQQU)
 - T3chFest, 2025: [Scrolling infinito y otros patrones de diseño adictivos (vídeo)](https://www.youtube.com/watch?v=6vIwpNxt9Hg&list=PLqgZDFdwyB8aL87rA1324Sa1ic7x4DMM6&index=14), [(slides)](https://mbelpar.github.io/files/talks/mbeltran_techfest_2025.pdf)
@@ -43,6 +44,8 @@ Talks and Podcasts (Spanish)
 
 Articles for the General Public (Spanish)
 ======
+- ¿Para qué se usan los datos personales que recogen los videojuegos? [(The Conversation, Julio 2026)](https://theconversation.com/para-que-se-usan-los-datos-personales-que-recogen-los-videojuegos-286381)
+- ¿Por qué no puedo parar? Patrones de diseño adictivos y tecnología que ‘engancha’ [(The Conversation, Abril 2026)](https://theconversation.com/por-que-no-puedo-parar-patrones-de-diseno-adictivos-y-tecnologia-que-engancha-280074)
 - ¿Cómo diseñar tecnología más segura para niños y adolescentes? [(Revista Telos, Junio 2025)](https://telos.fundaciontelefonica.com/telos-127-generacion-alfabeta-como-disenar-tecnologia-mas-segura-para-ninos-y-adolescentes/)
 - Ciberataques: el otro frente en la guerra entre Israel y Hamás [(The Conversation, Octubre 2023)](https://theconversation.com/ciberataques-el-otro-frente-en-la-guerra-entre-israel-y-hamas-215483)
 - Mr. Internet tiene género: por qué la tecnología no es neutra [(The Conversation, Septiembre 2023)](https://theconversation.com/mr-internet-tiene-genero-por-que-la-tecnologia-no-es-neutra-214012)
