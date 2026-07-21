@@ -42,7 +42,7 @@ Service
 - Conference Technical Programme Chair: EPEW 2015 and BRAINS 2021.
 - Conference General Chair: JNIC 2017 and BRAINS 2022.
 - Journal Guest Editor:  IEEE Transactions on Network and Service Management, special number "Recent Advances on Blockchain for Network and Service Management" (2022); Future Generation Computer systems, special issue on Cybersecurity in the digital world (2022).
-- Knowledge transfer collaborating with research networks, regulators and standardization bodies: RENIC (since 2016), Science in the Parliament and Oficina C (since 2018), UNE CTN 320 (since 2018), Internet Governance Forum (Spanish chapter, since 2018), Internet Users Association (since 2019), OEA (since 2020).
+- Knowledge transfer collaborating with research networks, regulators and standardization bodies: RENIC (2016-2023), Science in the Parliament and Oficina C (2018-2023), UNE CTN 320 and ISO (since 2018), Internet Governance Forum (Spanish chapter, since 2018), OEA (2020-2023).
 - Teaching Innovation Projects: Helping the computer architecture student with the MIPS64 (2007), Using simulators to learn about Cloud Computing (2010), Service Learning in CyberSecurity (2018-2022). 
 
 Leadership and management
@@ -52,5 +52,5 @@ Leadership and management
 - Cybersecurity MOOC Director, URJCx and MiriadaX (2016-2018).
 - Computer Architecture II area coordinator (2015-2021).
 - Master and Doctoral Program Director, M.Res. in Advanced Hardware and Software Systems, Universidad Rey Juan Carlos (2009-2013).
-- Member of the Advisory Group (“ad personam”), European Union Agency for Cybersecurity (ENISA, 2023-2025).
+- Member of the Advisory Group (“ad personam”), European Union Agency for Cybersecurity (ENISA, 2023-2025). Member of the "Alumni" Group since then.
   
